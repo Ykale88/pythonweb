@@ -14,7 +14,9 @@ variables:
   webAppName: ''
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  name: Default
+  vmimage: ubuntu- 20.04.4
+  
 
   # Environment name
   environmentName: 'sample'
